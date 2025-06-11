@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Anamitra Majumder
 
 🎓 MSc Data Science @ IIIT Lucknow  
-📈 Aspiring Quant | 🧠 Quantum AI Enthusiast | 🤖 Applied ML Researcher  
+📈 Aspiring Quant | 🧠 Quantum AI Enthusiast | 🤖 Data Science Researcher  
 
 ---
 
