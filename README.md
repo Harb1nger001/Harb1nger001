@@ -1,43 +1,44 @@
 ## Hi there 👋 I'm Anamitra Majumder
 
 🎓 MSc Data Science @ IIIT Lucknow  
-📈 Aspiring Quant | 🧠 Quantum AI Enthusiast | 🤖 Data Science Researcher  
+📈 Aspiring Quant | 🧠 Quantum AI Enthusiast | 🤖 Data Science Researcher
 
 ---
 
 ### 🚀 About Me
-I'm passionate about blending data science, mathematics, and advanced AI techniques to build impactful systems. From modeling economic collapse to forecasting financial risk using quantum machine learning, I aim to push the boundaries of applied analytics.
+I’m a data scientist-in-training passionate about the intersection of mathematics, machine learning, and quantum computing. My focus is on building intelligent, scalable systems that tackle high-impact problems—from predicting financial crashes to modeling climate risk.
 
-- 🔭 Currently building:
-  - **Black Swan Simulator** – agent-based modeling of systemic collapse scenarios
-  - **Quantum Forecasting for ESG Markets** – QGAN/QNN-based modeling under climate stress
-  - **Climate Extreme Mapper** – spatial risk visualization using Quantum GANs
+- 🔭 **Currently Building:**
+  - **Black Swan Simulator** — agent-based simulation of economic/systemic collapse
+  - **Quantum Forecasting for ESG** — QGAN- and QNN-based climate stress modeling
+  - **Climate Extreme Mapper** — geospatial risk detection powered by Quantum GANs
 
-- 🌱 Actively exploring:
-  - Quantum Machine Learning (QML)
-  - FastAPI, Docker, and scalable model deployment
-  - Power BI & Tableau for business dashboards
+- 🌱 **Learning & Exploring:**
+  - Quantum Machine Learning (QML), Qiskit & PennyLane  
+  - FastAPI, Docker, and scalable ML deployments  
+  - Power BI & Tableau for business intelligence
 
-- 🧠 My interests include:
-  Quant finance, generative models, economic resilience, fractal geometry in data, and computational complexity.
-
----
-
-### 📌 Notable Projects
-- 📊 **Stock Movement Predictor** – NLP + sentiment modeling on Reddit data (R² = 0.95)
-- 🧩 **Fractal-Based Quantum Data Model** – MSc thesis
-- 🌍 **QGAN-Powered Climate Mapper** – identifying spatial extreme events
-- 📸 **Distress Signal Detection System** – ML + Image Processing (91% accuracy)
+- 🧠 **Interests:**
+  Quant finance, generative modeling, systemic risk, fractal theory in data, and AI ethics.
 
 ---
 
-### 📫 Let's Connect
+### 📌 Featured Projects
+
+- 📊 **Stock Movement Predictor** — sentiment-based market modeling using Reddit (R² = 0.95)  
+- 🧩 **Fractal-Based Quantum Data Model** — MSc thesis exploring self-similarity in datasets  
+- 🌍 **QGAN Climate Mapper** — visualizing extreme climate events via spatial GANs  
+- 📸 **Distress Signal Detection** — gesture-based ML model for safety alerts (91% accuracy)
+
+---
+
+### 📫 Connect with Me
+
 - 📧 Email: [mail2anamitra@gmail.com](mailto:mail2anamitra@gmail.com)  
-- 📄 Resume: [View CV](https://github.com/Harb1nger001/Harb1nger001/blob/main/CV.pdf)  
-- 🔗 LinkedIn: [Anamitra Majumder](https://www.linkedin.com/in/anamitra-majumder)
+- 📄 [Resume (CV)](https://github.com/Harb1nger001/Harb1nger001/blob/main/CV.pdf)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/anamitra-majumder)
 
 ---
 
 > _"Math is the language of nature. Data is just her accent."_  
 > — Me 😄
-
