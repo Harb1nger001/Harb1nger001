@@ -8,14 +8,15 @@
 ### 🚀 About Me
 I’m a data scientist-in-training passionate about the intersection of mathematics, machine learning, and quantum computing. My focus is on building intelligent, scalable systems that tackle high-impact problems—from predicting financial crashes to modeling climate risk.
 
-- 🔭 **Currently Building:**
-  - **Black Swan Simulator** — agent-based simulation of economic/systemic collapse
+- 🔭 **Currently Working On:**
+  - **AI Engineer Intern @ INAI World** — Leading AI/ML engineering for a BharatGPT-scale LLM; managing two teams focused on model fine-tuning and cloud deployment
+  - **Data Science Intern @ RM Agrico Pvt. Ltd.** — Working on AI systems for environmental intelligence (project details under NDA)
   - **Quantum Forecasting for ESG** — QGAN- and QNN-based climate stress modeling
-  - **Climate Extreme Mapper** — geospatial risk detection powered by Quantum GANs
+  - **FX Reserve Burn Rate Predictor** — time-series forecasting model for central bank risk scenarios
 
 - 🌱 **Learning & Exploring:**
-  - Quantum Machine Learning (QML), Qiskit & PennyLane  
-  - FastAPI, Docker, and scalable ML deployments  
+  - Quantum Reinforcement Learning & Quantum Kernel Methods  
+  - Full-Stack Data Analysis Software Development  
   - Power BI & Tableau for business intelligence
 
 - 🧠 **Interests:**
@@ -26,7 +27,7 @@ I’m a data scientist-in-training passionate about the intersection of mathemat
 ### 📌 Featured Projects
 
 - 📊 **Stock Movement Predictor** — sentiment-based market modeling using Reddit (R² = 0.95)  
-- 🧩 **Fractal-Based Quantum Data Model** — MSc thesis exploring self-similarity in datasets  
+- 🧩 **Fractal-Based Data Analysis Python Library** — Ongoing MSc capstone project and thesis exploring fractal features in multiscale datasets  
 - 🌍 **QGAN Climate Mapper** — visualizing extreme climate events via spatial GANs  
 - 📸 **Distress Signal Detection** — gesture-based ML model for safety alerts (91% accuracy)
 
