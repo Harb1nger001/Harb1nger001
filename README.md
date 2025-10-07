@@ -1,13 +1,9 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200"/>
-</p>
-
 <h1 align="center">Hi there 👋 I'm Anamitra Majumder</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MSc_Data_Science-IIIT_Lucknow-blue"/>
-  <img src="https://img.shields.io/badge/AI_ML-Engineer-purple"/>
-  <img src="https://img.shields.io/badge/Data_Science-Researcher-orange"/>
+  <img src="https://img.shields.io/badge/MSc_Data_Science-IIIT_Lucknow-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI_ML-Engineer-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data_Science-Researcher-orange?style=for-the-badge"/>
 </p>
 
 ---
@@ -33,10 +29,10 @@ Data science graduate student with a strong foundation in **mathematics, statist
 ## 📌 Featured Projects
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Stock_Predictor-R2_0.95-brightgreen"/>
-  <img src="https://img.shields.io/badge/FX_Currency_Stress-Predictor-blue"/>
-  <img src="https://img.shields.io/badge/Fractal_Data_Library-Python-orange"/>
-  <img src="https://img.shields.io/badge/Distress_Signal_Detection-91%25-red"/>
+  <img src="https://img.shields.io/badge/Stock_Predictor-R2_0.95-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FX_Currency_Stress-Predictor-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Fractal_Data_Library-Python-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Distress_Signal_Detection-91%25-red?style=for-the-badge"/>
 </p>
 
 - **💹 Stock Movement Predictor (Reddit Sentiment)** — NLP + deep learning pipeline achieving R² = 0.95 for market trend prediction
@@ -51,11 +47,11 @@ Data science graduate student with a strong foundation in **mathematics, statist
 ## 🛠️ Technical Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-Pandas%2C%20NumPy-blue"/>
-  <img src="https://img.shields.io/badge/ML-TensorFlow%2C%20PyTorch%2C%20Scikit-learn-green"/>
-  <img src="https://img.shields.io/badge/Big_Data-Spark%2C%20Hadoop%2C%20Hive-yellow"/>
-  <img src="https://img.shields.io/badge/DB-SQL%2C%20PostgreSQL%2C%20MongoDB-orange"/>
-  <img src="https://img.shields.io/badge/Deployment-Git%2C%20Docker%2C%20Streamlit-red"/>
+  <img src="https://img.shields.io/badge/Python-Pandas%2C%20NumPy-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ML-TensorFlow%2C%20PyTorch%2C%20Scikit-learn-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Big_Data-Spark%2C%20Hadoop%2C%20Hive-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DB-SQL%2C%20PostgreSQL%2C%20MongoDB-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deployment-Git%2C%20Docker%2C%20Streamlit-red?style=for-the-badge"/>
 </p>
 
 ---
@@ -63,9 +59,9 @@ Data science graduate student with a strong foundation in **mathematics, statist
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:mail2anamitra@gmail.com"><img src="https://img.shields.io/badge/Email-mail2anamitra@gmail.com-red"/></a>
-  <a href="https://www.linkedin.com/in/anamitra-majumder"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue"/></a>
-  <a href="https://github.com/Harb1nger001/Harb1nger001/blob/main/CV.pdf"><img src="https://img.shields.io/badge/Resume-PDF-success"/></a>
+  <a href="mailto:mail2anamitra@gmail.com"><img src="https://img.shields.io/badge/Email-mail2anamitra@gmail.com-red?style=for-the-badge"/></a>
+  <a href="https://www.linkedin.com/in/anamitra-majumder"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge"/></a>
+  <a href="https://github.com/Harb1nger001/Harb1nger001/blob/main/CV.pdf"><img src="https://img.shields.io/badge/Resume-PDF-success?style=for-the-badge"/></a>
 </p>
 
 ---
@@ -80,7 +76,3 @@ Data science graduate student with a strong foundation in **mathematics, statist
 
 > _"Math is the language of nature. Data is just her accent."_  
 > — Me 😄
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200"/>
-</p>
