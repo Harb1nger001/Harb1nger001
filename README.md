@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200"/>
 </p>
 
 <h1 align="center">Hi there 👋 I'm Anamitra Majumder</h1>
@@ -82,5 +82,5 @@ Data science graduate student with a strong foundation in **mathematics, statist
 > — Me 😄
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200"/>
 </p>
